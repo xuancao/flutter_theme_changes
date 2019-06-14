@@ -2,15 +2,8 @@
 
 Flutter projects that dynamically change themes
 
-## Getting Started
+#Description
+本Flutter项目中使用provide这个状态管理框架来进行整个项目主题色的更改操作
 
-This project is a starting point for a Flutter application.
+主题色更改参考：https://github.com/efoxTeam/flutter-ui 进行的简化，特此感谢！
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
